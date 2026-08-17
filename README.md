@@ -1,4 +1,4 @@
-https://maximilian-schwarzmueller.com/  - AI NEWSLETTER
-https://ei4change.buzzsprout.com/  - Emotional intelligence
-https://ei4change.com/ei-matters/ - Emotional intelligence
-
+- https://maximilian-schwarzmueller.com/  - AI NEWSLETTER
+ - https://ei4change.buzzsprout.com/  - Emotional intelligence
+- https://ei4change.com/ei-matters/ - Emotional intelligence
+- https://github.com/AISCIENCES/course-master-big-data-with-pyspark-and-aws - pysprk and aws
